@@ -11,26 +11,38 @@
 
 <h3 align="center">  <br>
 
-Olá, eu sou o Hugo! 🇧🇷
+Olá, eu sou o Hugo!
 <br>
 
 </h3>
 
 ```
-Formado em Redes de computadores de pela Estácio de Sá e técnico em processamento de dados pelo Cotemig.
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um profissional na área de automação e Dados.
+Sou graduado em Redes de Computadores e técnico em Processamento de Dados.
+Tenho experiência em monitoramento de infraestrutura e aplicação (APM) no mercado de bancos digitais, atuando há 7 anos nesse seguimento. 
+Sempre busquei aprofundar em conhecimentos que promova otimização nos processos com intuito de torná-los mais eficientes através da automação.
+Meu principal objetivo é ser um facilitador na implantação de projetos de automatização, com o foco de eliminar os processos manuais e erros recorrentes, que resultará a padronização de tarefas, o aumento da produtividade e qualidade e possibilidades de monitoramento remoto.
 ```
-## Tópicos que estou estudando atualmente 💻
-
+## Habilidades técnicas em andamento 💻
+Lingugem:
   - Python
-  - Alteryx - ETL
-  - Automation Anywhare - Automação RPA
+  - Javascript
   - SQL
-  - Regex
+Ferramentas empresáriais:
+  - Alteryx - ETL (Automatizando os dados)
+  - Automation Anywhare - Automação RPA (Automatizando processos)
+  - NEW RELIC - (Monitoramento de APM)
+  - Zabbix e Grafana - (Monitoramento de Infraestrutura)
+  
+## Habilidades interpessoais 👨🏻‍💻
 
-## Alguns fatos sobre mim 👨🏻‍💻
-
-- Adoro conhecer coisas novas, trabalhar em grupo, obter novas experiências, sou proativo, sempre busco resolver problemas de forma objetiva  e procurando me conhecer cada vez mais.
+- Sociável
+- Otimista
+- Bom ouvinte
+- Proativo
+- Dinânmico 
+- Sou prático, gosto de ter objetivos definidos e claros
+- Honesto 
+- Leal
 
 
 ## Meu Linktree [:link:]()
