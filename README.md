@@ -32,7 +32,7 @@ Lingugem:
   - Python
   - Javascript
   - SQL
-Ferramentas empresáriais:
+## Ferramentas empresáriais:
   - Alteryx - ETL (Automatizando os dados)
   - Automation Anywhare - Automação RPA (Automatizando processos)
   - NEW RELIC - (Monitoramento de APM)
