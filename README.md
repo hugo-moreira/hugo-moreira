@@ -52,6 +52,5 @@ Ferramentas empresáriais:
 <h3 align="center">  <br>
 
 ## O que o homem complica a automação facilita
- 
-<br>
 
+</h3> 
