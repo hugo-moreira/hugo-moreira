@@ -49,5 +49,9 @@ Ferramentas empresáriais:
 - Honesto 
 - Leal
 
+<h3 align="center">  <br>
 
 ## O que o homem complica a automação facilita
+ 
+<br>
+
