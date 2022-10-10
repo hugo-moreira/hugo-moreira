@@ -17,14 +17,14 @@ Olá, eu sou o Hugo!
 </h3>
 
 ```
-#Sou graduado em Redes de Computadores e técnico em Processamento de Dados.
-#Tenho experiência em monitoramento de infraestrutura e aplicação (APM) no mercado de bancos digitais, 
-#atuando há 7 anos nesse seguimento. 
-#Sempre busquei aprofundar em conhecimentos que promova otimização nos processos 
-#com intuito de torná-los mais eficientes através da automação.
-#Meu principal objetivo é ser um facilitador na implantação de projetos de automatização, 
-#com o foco de eliminar os processos manuais e erros recorrentes, que resultará a padronização de tarefas, 
-#o aumento da produtividade e qualidade e possibilidades de monitoramento remoto.
+# Sou graduado em Redes de Computadores e técnico em Processamento de Dados.
+# Tenho experiência em monitoramento de infraestrutura e aplicação (APM) no mercado de bancos digitais, 
+# atuando há 7 anos nesse seguimento. 
+# Sempre busquei aprofundar em conhecimentos que promova otimização nos processos 
+# com intuito de torná-los mais eficientes através da automação.
+# Meu principal objetivo é ser um facilitador na implantação de projetos de automatização, 
+# com o foco de eliminar os processos manuais e erros recorrentes, que resultará a padronização de tarefas, 
+# o aumento da produtividade e qualidade e possibilidades de monitoramento remoto.
 ```
 ## Habilidades técnicas em andamento 💻
 Lingugem:
