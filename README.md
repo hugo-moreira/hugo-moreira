@@ -14,14 +14,14 @@
 ## Sobre mim
 
 ```text
-Analista de Qualidade de Software no Inter S.A, atuando em squad focada em compliance (PCI-DSS)
+Analista de Qualidade de Software, atuando em squad focada em compliance (PCI-DSS)
 e integrações de cartões. Graduado em Redes de Computadores (Estácio) e técnico em Informática (Cotemig).
 Pós-graduação em Automação de Testes e AI em andamento (Facint).
 
 Experiência em testes manuais, semi-automatizados e automatizados com Robot Framework, Python e Java,
 focado em microsserviços e APIs. Planejamento de cenários de teste com Jira, Confluence e Draw.io.
 Mais de 11 anos no mercado de bancos digitais, com vivência em monitoramento (New Relic, Zabbix, Grafana),
-automação RPA (Automation Anywhere) e ETL (Alteryx).
+automação RPA (Automation Anywhere) e ETL (Alteryx). Utilizo Cursor e IA no dia a dia para produtividade.
 
 Objetivo: contribuir para a evangelização da cultura de qualidade e garantir a excelência do produto
 em todas as etapas do ciclo de vida do software.
@@ -38,6 +38,7 @@ em todas as etapas do ciclo de vida do software.
 <td align="center" width="25%">
 <h4>Linguagens</h4>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </td>
@@ -49,6 +50,8 @@ em todas as etapas do ciclo de vida do software.
 </td>
 <td align="center" width="25%">
 <h4>Ferramentas</h4>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor">
+<img src="https://img.shields.io/badge/IA-FF6F00?style=for-the-badge" alt="IA">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
