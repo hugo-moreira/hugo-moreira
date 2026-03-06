@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2d3436,100:0984e3&height=180&section=header&text=Hugo%20Moreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32)
 
-### Automação | APM | Infraestrutura
+### Analista de Qualidade de Software | Automação de Testes | APM
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-moreira-405561b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugomoreira-bh/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hugo-moreira)
 
 ---
@@ -14,16 +14,17 @@
 ## Sobre mim
 
 ```text
-Sou graduado em Redes de Computadores e técnico em Processamento de Dados.
-Tenho experiência em monitoramento de infraestrutura e aplicação (APM) no mercado de bancos digitais,
-atuando há 7 anos nesse segmento.
+Analista de Qualidade de Software no Inter S.A, atuando em squad focada em compliance (PCI-DSS)
+e integrações de cartões. Graduado em Redes de Computadores (Estácio) e técnico em Informática (Cotemig).
+Pós-graduação em Automação de Testes e AI em andamento (Facint).
 
-Sempre busquei aprofundar em conhecimentos que promovam otimização nos processos
-com intuito de torná-los mais eficientes através da automação.
+Experiência em testes manuais, semi-automatizados e automatizados com Robot Framework, Python e Java,
+focado em microsserviços e APIs. Planejamento de cenários de teste com Jira, Confluence e Draw.io.
+Mais de 11 anos no mercado de bancos digitais, com vivência em monitoramento (New Relic, Zabbix, Grafana),
+automação RPA (Automation Anywhere) e ETL (Alteryx).
 
-Meu principal objetivo é ser um facilitador na implantação de projetos de automatização,
-com o foco de eliminar os processos manuais e erros recorrentes, resultando na padronização de tarefas,
-aumento da produtividade e qualidade, e possibilidades de monitoramento remoto.
+Objetivo: contribuir para a evangelização da cultura de qualidade e garantir a excelência do produto
+em todas as etapas do ciclo de vida do software.
 ```
 
 > *"O que o homem complica, a automação facilita."*
@@ -34,18 +35,26 @@ aumento da produtividade e qualidade, e possibilidades de monitoramento remoto.
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <h4>Linguagens</h4>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </td>
-<td align="center" width="33%">
-<h4>Ferramentas</h4>
-<img src="https://img.shields.io/badge/Alteryx-ETL-0089D6?style=for-the-badge" alt="Alteryx">
-<img src="https://img.shields.io/badge/Automation_Anywhere-RPA-FF6C37?style=for-the-badge" alt="Automation Anywhere">
+<td align="center" width="25%">
+<h4>Testes</h4>
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge" alt="Newman">
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<h4>Ferramentas</h4>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</td>
+<td align="center" width="25%">
 <h4>Monitoramento</h4>
 <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic">
 <img src="https://img.shields.io/badge/Zabbix-D30000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
@@ -53,6 +62,33 @@ aumento da produtividade e qualidade, e possibilidades de monitoramento remoto.
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<h4>Metodologias</h4>
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" alt="Scrum">
+<img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge" alt="Kanban">
+</td>
+<td align="center" width="50%">
+<h4>ETL & RPA</h4>
+<img src="https://img.shields.io/badge/Alteryx-ETL-0089D6?style=for-the-badge" alt="Alteryx">
+<img src="https://img.shields.io/badge/Automation_Anywhere-RPA-FF6C37?style=for-the-badge" alt="Automation Anywhere">
+</td>
+</tr>
+</table>
+
+---
+
+## Certificações
+
+| Certificação | Emissor |
+|:---|:---|
+| Linux Essentials | Linux Professional Institute |
+| ITIL Foundation | PeopleCert |
+| Alteryx Designer Core | Alteryx |
+| Alteryx Machine Learning Foundations | Alteryx |
+| RPA Essentials (Automation360) | Automation Anywhere |
 
 ---
 
