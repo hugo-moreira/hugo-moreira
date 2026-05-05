@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2d3436,100:0984e3&height=180&section=header&text=Hugo%20Moreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32)
 
-### Analista de Qualidade de Software | Automação de Testes | APM
+### Software Developer II | SDET | Quality Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugomoreira-bh/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hugo-moreira)
@@ -16,7 +16,6 @@
 ```text
 ### Olá! Sou o Hugo 👋
 
-**Software Developer II | SDET | Quality Engineer**
 
 Com uma trajetória que evoluiu da infraestrutura de TI para a engenharia de qualidade, consolidei mais de 11 anos de experiência no mercado de bancos digitais. Atualmente, atuo em um time focado em integrações de cartões e compliance (PCI-DSS), com o objetivo de construir e validar sistemas seguros, resilientes e escaláveis.
 
