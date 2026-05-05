@@ -18,7 +18,7 @@
 
 **Software Developer II | SDET | Quality Engineer**
 
-Com uma trajetória que evoluiu da infraestrutura de TI para a engenharia de qualidade, consolidei mais de 11 anos de experiência no mercado de bancos digitais. Atualmente, atuo em uma squad focada em integrações de cartões e compliance (PCI-DSS), com o objetivo de construir e validar sistemas seguros, resilientes e escaláveis.
+Com uma trajetória que evoluiu da infraestrutura de TI para a engenharia de qualidade, consolidei mais de 11 anos de experiência no mercado de bancos digitais. Atualmente, atuo em um time focado em integrações de cartões e compliance (PCI-DSS), com o objetivo de construir e validar sistemas seguros, resilientes e escaláveis.
 
 🚀 **O que eu faço e estudo:**
 - **Automação & Testes:** Desenvolvimento de testes em microsserviços e APIs, abrangendo cenários manuais, semi-automatizados e automatizados.
@@ -47,6 +47,8 @@ Contribuir ativamente para a cultura de qualidade contínua, garantindo que a ex
 
 ## Stack tecnológica
 
+### 🛠️ Tech Stack & Ferramentas
+
 <table>
 <tr>
 <td align="center" width="25%">
@@ -59,6 +61,8 @@ Contribuir ativamente para a cultura de qualidade contínua, garantindo que a ex
 <td align="center" width="25%">
 <h4>Testes</h4>
 <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework">
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 <img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge" alt="Newman">
 </td>
@@ -68,6 +72,7 @@ Contribuir ativamente para a cultura de qualidade contínua, garantindo que a ex
 <img src="https://img.shields.io/badge/IA-FF6F00?style=for-the-badge" alt="IA">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
+<img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io">
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </td>
