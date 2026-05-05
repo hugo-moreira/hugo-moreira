@@ -61,8 +61,6 @@ Contribuir ativamente para a cultura de qualidade contínua, garantindo que a ex
 <td align="center" width="25%">
 <h4>Testes</h4>
 <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework">
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 <img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge" alt="Newman">
 </td>
