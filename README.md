@@ -14,17 +14,31 @@
 ## Sobre mim
 
 ```text
-Analista de Qualidade de Software, atuando em squad focada em compliance (PCI-DSS)
-e integrações de cartões. Graduado em Redes de Computadores (Estácio) e técnico em Informática (Cotemig).
-Pós-graduação em Automação de Testes e AI em andamento (Facint).
+### Olá! Sou o Hugo 👋
 
-Experiência em testes manuais, semi-automatizados e automatizados com Robot Framework, Python e Java,
-focado em microsserviços e APIs. Planejamento de cenários de teste com Jira, Confluence e Draw.io.
-Mais de 11 anos no mercado de bancos digitais, com vivência em monitoramento (New Relic, Zabbix, Grafana),
-automação RPA (Automation Anywhere) e ETL (Alteryx). Utilizo Cursor e IA no dia a dia para produtividade.
+**Software Developer II | SDET | Quality Engineer**
 
-Objetivo: contribuir para a evangelização da cultura de qualidade e garantir a excelência do produto
-em todas as etapas do ciclo de vida do software.
+Com uma trajetória que evoluiu da infraestrutura de TI para a engenharia de qualidade, consolidei mais de 11 anos de experiência no mercado de bancos digitais. Atualmente, atuo em uma squad focada em integrações de cartões e compliance (PCI-DSS), com o objetivo de construir e validar sistemas seguros, resilientes e escaláveis.
+
+🚀 **O que eu faço e estudo:**
+- **Automação & Testes:** Desenvolvimento de testes em microsserviços e APIs, abrangendo cenários manuais, semi-automatizados e automatizados.
+- **Cultura de Qualidade:** Planejamento estratégico de cenários e evangelização da excelência do produto em todas as etapas do SDLC.
+- **Inovação & Produtividade:** Uso diário de ferramentas de IA, como o Cursor, para otimizar fluxos de trabalho e acelerar entregas.
+
+🛠️ **Tech Stack & Ferramentas:**
+- **Linguagens:** Python, Java, JavaScript
+- **Frameworks de Teste:** Robot Framework, Cypress, Selenium
+- **Observabilidade:** New Relic, Zabbix, Grafana
+- **Automação & Dados:** Automation Anywhere (RPA), Alteryx (ETL)
+- **Planejamento:** Jira, Confluence, Draw.io
+
+🎓 **Formação Acadêmica:**
+- 📚 **Pós-graduação:** Automação de Testes e Inteligência Artificial - Facint *(Em andamento)*
+- 🎓 **Graduação:** Redes de Computadores - Estácio
+- 💻 **Técnico:** Informática - Cotemig
+
+🎯 **Meu Objetivo:**
+Contribuir ativamente para a cultura de qualidade contínua, garantindo que a excelência não seja apenas uma etapa, mas a base de todo o ciclo de vida do software.
 ```
 
 > *"O que o homem complica, a automação facilita."*
